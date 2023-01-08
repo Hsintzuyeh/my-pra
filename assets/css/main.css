@@ -2133,6 +2133,14 @@ input, select, textarea {
 						}
 
 				}
+				/* 作業名稱文字置中 */
+				.workName {
+					text-align: center;
+				}
+				/* 作業名稱文字顏色 */
+				.workNameColor {
+					color: green;
+				}
 
 /* Footer */
 
